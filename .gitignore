@@ -1,0 +1,37 @@
+
+*.iml
+
+.idea/
+
+*.ipr
+*.iws
+
+/out/
+
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+
+# NodeJS modules folder
+node_modules
+
+# npm debug log
+npm-debug.log
+
+# vs code
+.vscode
+
+# coverage
+
+/coverage
+
+# github pages config
+
+docs/CNAME
+package-lock.json
